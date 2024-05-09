@@ -210,7 +210,7 @@ El registro de referencia (`reflog`) registra los cambios en el puntero HEAD, lo
 - Utiliza herramientas visuales como `gitk` o `git gui` para visualizar el historial del repositorio y comprender mejor los cambios realizados.
 
 
-## Clase 9: Hooks, Alias y Trucos de Git
+## Clase 8: Hooks, Alias y Trucos de Git
 
 ### Concepto básico:
 Git ofrece características avanzadas que pueden mejorar significativamente la eficiencia y la automatización del flujo de trabajo. Algunas de estas características incluyen:
