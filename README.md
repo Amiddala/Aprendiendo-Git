@@ -114,10 +114,10 @@ El proceso de compartir y colaborar en proyectos Git involucra tres acciones fun
   
 - **Squash**: Combina varios commits en uno solo, lo que puede ser útil para agrupar cambios relacionados y mantener un historial de commits más conciso.
 
-##Clase 5: Gitflow
+## Clase 5: Gitflow
 
 ### Concepto básico
-Gitflow es un flujo de trabajo para Git que define una estructura de ramas y reglas para facilitar el desarrollo colaborativo en proyectos de software. Propuesto por Vincent Driessen en 2010, Gitflow se ha convertido en un modelo popular para organizar el flujo de trabajo en equipos de desarrollo.
+Gitflow es un flujo de trabajo para Git que define una estructura de ramas y reglas para facilitar el desarrollo colaborativo en proyectos de software, Gitflow se ha convertido en un modelo popular para organizar el flujo de trabajo en equipos de desarrollo.
 
 Gitflow se basa en la idea de tener dos ramas principales permanentes: `master` y `develop`. La rama `master` contiene el código estable y se utiliza para producir versiones de producción, mientras que la rama `develop` es la rama base para el desarrollo en curso. Además, Gitflow define varias ramas secundarias para características, versiones, hotfixes y lanzamientos.
 
