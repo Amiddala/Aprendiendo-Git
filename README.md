@@ -1,5 +1,5 @@
 # **CURSO GIT SCESI**
-![Imagen introducctoria](imagenes/github.jpg)
+![github](https://github.com/Amiddala/Aprendiendo-Git/assets/168691418/e7c5a319-411e-4177-ad92-f20c895a3404)
 ## Clase 1: Introducción a Git
 ### Concepto básico:
 Git es un sistema de control de versiones distribuido que permite rastrear cambios en archivos y coordinar el trabajo entre múltiples personas en proyectos de software.
