@@ -1,7 +1,5 @@
-# **CURSO GIT**
-
-A traves de este repositorio, estoy documentando mi aprendizaje sobre Git
-
+# **CURSO GIT SCESI**
+![Imagen introducctoria](Escritorio/imagenes/github.jpg)
 ## Clase 1: Introducción a Git
 ### Concepto básico:
 Git es un sistema de control de versiones distribuido que permite rastrear cambios en archivos y coordinar el trabajo entre múltiples personas en proyectos de software.
