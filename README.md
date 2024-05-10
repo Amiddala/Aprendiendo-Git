@@ -22,8 +22,7 @@ Git es un sistema de control de versiones distribuido que permite rastrear cambi
 - `git log`: Muestra el historial de commits. Proporciona una lista detallada de todos los commits realizados en el repositorio, incluyendo el autor, la fecha y el mensaje asociado a cada commit.
 - `git diff`: Muestra las diferencias entre versiones. Puedes usar este comando para ver las diferencias entre el directorio de trabajo y el área de preparación, entre el área de preparación y el último commit, o entre dos commits específicos.
 
-![commit](https://github.com/Amiddala/Aprendiendo-Git/assets/168691418/d4c42617-cfc8-412d-a1ab-f0f3903071b2)
-
+![commits](https://github.com/Amiddala/Aprendiendo-Git/assets/168691418/caeb5100-3435-45f0-88ae-73cf3a2044e6)
 ## Clase 2: Ramas, Merge y Conflictos
 
 ### Concepto básico
