@@ -1,5 +1,5 @@
 # **CURSO GIT SCESI**
-![github](https://github.com/Amiddala/Aprendiendo-Git/assets/168691418/e7c5a319-411e-4177-ad92-f20c895a3404)
+
 ## Clase 1: Introducción a Git
 ### Concepto básico:
 Git es un sistema de control de versiones distribuido que permite rastrear cambios en archivos y coordinar el trabajo entre múltiples personas en proyectos de software.
@@ -51,6 +51,11 @@ Las ramas en Git permiten trabajar en paralelo en diferentes funcionalidades o c
 - [Resolución de conflictos en Git](https://www.git-tower.com/learn/git/ebook/en/command-line/advanced-topics/merge-conflicts)
 
 ## Clase 3: GitHub
+
+<p align="center">
+  <img src="https://github.com/Amiddala/Aprendiendo-Git/assets/168691418/e7c5a319-411e-4177-ad92-f20c895a3404" alt="github">
+</p>
+
 
 ### Concepto básico
 GitHub es una plataforma de alojamiento de repositorios Git en la nube, que facilita la colaboración en proyectos de código abierto y privados. Permite a los desarrolladores trabajar juntos en proyectos de software, gestionar versiones de código, realizar seguimiento de problemas y solicitar características nuevas, todo de forma colaborativa.
