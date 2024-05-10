@@ -97,6 +97,8 @@ El proceso de compartir y colaborar en proyectos Git involucra tres acciones fun
 - `git push`: Envía los cambios realizados en tu repositorio local al repositorio remoto.
   
 - `git pull`: Obtiene los cambios del repositorio remoto y los fusiona automáticamente en tu repositorio local.
+
+![pull ](https://github.com/Amiddala/Aprendiendo-Git/assets/168691418/cf55398d-3d1d-49d6-96d2-098844bfbb34)
   
 ### **Flujo de trabajo sugerido**
 1. **Crear una rama**: Antes de empezar a trabajar en una nueva funcionalidad, crea una rama nueva utilizando `git branch <nombre_rama>` y cámbiate a ella con `git checkout <nombre_rama>`.
@@ -140,6 +142,8 @@ Gitflow se integra bien con diversas herramientas y servicios, incluyendo:
 - **Git Extensions:** Proporciona soporte gráfico para el flujo de trabajo de Gitflow.
 - **GitKraken:** Ofrece una interfaz gráfica intuitiva que facilita la gestión de ramas y fusión según el modelo Gitflow.
 - **GitHub Actions:** Permite automatizar flujos de trabajo basados en eventos, como despliegues automáticos después de la finalización de una rama de release.
+
+![gitflow](https://github.com/Amiddala/Aprendiendo-Git/assets/168691418/75f84398-6c22-40e7-a4a7-7665cac4f289)
 
 ### Conclusiones
 Gitflow proporciona una estructura organizativa sólida y predecible para proyectos de desarrollo de software. Al seguir este modelo, los equipos pueden gestionar eficazmente el flujo de trabajo, colaborar de manera efectiva y entregar software de alta calidad de manera constante.
@@ -228,3 +232,5 @@ Git ofrece características avanzadas que pueden mejorar significativamente la e
 - `git config --global alias.<nombre_alias> "<comando>"`: Crea un alias global para un comando de Git. Esto es útil para definir atajos personalizados que se aplicarán en todos los repositorios.
 
 - Además de los comandos mencionados, los trucos específicos pueden variar según las necesidades del usuario y las particularidades del proyecto. Algunos ejemplos comunes incluyen la optimización de la configuración de Git, la automatización de tareas repetitivas mediante scripts personalizados, o el uso de extensiones de terceros para ampliar las capacidades de Git.
+
+![hooks](https://github.com/Amiddala/Aprendiendo-Git/assets/168691418/4f3a6e75-9804-4f69-bc2b-532ac39d106c)
