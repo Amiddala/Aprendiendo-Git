@@ -233,4 +233,6 @@ Git ofrece características avanzadas que pueden mejorar significativamente la e
 
 - Además de los comandos mencionados, los trucos específicos pueden variar según las necesidades del usuario y las particularidades del proyecto. Algunos ejemplos comunes incluyen la optimización de la configuración de Git, la automatización de tareas repetitivas mediante scripts personalizados, o el uso de extensiones de terceros para ampliar las capacidades de Git.
 
-![hooks](https://github.com/Amiddala/Aprendiendo-Git/assets/168691418/4f3a6e75-9804-4f69-bc2b-532ac39d106c)
+<p align="center">
+  <img src="https://github.com/Amiddala/Aprendiendo-Git/assets/168691418/4f3a6e75-9804-4f69-bc2b-532ac39d106c" alt="hooks">
+</p>
